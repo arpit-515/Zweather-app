@@ -1,16 +1,34 @@
-# weather_app
+# ☁️ Zweather app
 
-A new Flutter project.
+A fun and modern weather app built with Flutter. Real-time forecasts, glassmorphic UI and animations.
 
-## Getting Started
+## 🚀 Features
 
-This project is a starting point for a Flutter application.
+- 🔍 Search weather by city
+- ⛅ Real-time data (temp, humidity, etc.)
+- ❄️ Glassmorphic design
+- 🎨 Lottie and Rive animations
 
-A few resources to get you started if this is your first Flutter project:
+## 💡 Getting Started
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Clone the repo and run the app:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone
+https://github.com/arpit-515/Zweather-app.git
+cd Zweather-app
+flutter pub get
+flutter run
+```
+## 🔨 Tech Used
+
+- Flutter & Dart
+- Weatherapi API
+- Riverpod State Management
+- Lottie / Rive Animations
+
+## 🙌 Author
+
+*Arpit Singh*
+Connect with me on
+[LinkedIn](www.linkedin.com/in/arpit-singh-4095bb28b)
